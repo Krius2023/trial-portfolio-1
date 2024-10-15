@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/duerme-portfolio-template/static/css/main.5ad079f0.css",
-    "main.js": "/duerme-portfolio-template/static/js/main.9d240593.js",
-    "index.html": "/duerme-portfolio-template/index.html"
+    "main.css": "/trial-portfolio-1/static/css/main.5ad079f0.css",
+    "main.js": "/trial-portfolio-1/static/js/main.9ac6cd00.js",
+    "index.html": "/trial-portfolio-1/index.html"
   },
   "entrypoints": [
     "static/css/main.5ad079f0.css",
-    "static/js/main.9d240593.js"
+    "static/js/main.9ac6cd00.js"
   ]
 }
