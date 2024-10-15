@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/duerme-portfolio-template/static/css/main.5ad079f0.css",
+    "main.js": "/duerme-portfolio-template/static/js/main.9d240593.js",
+    "index.html": "/duerme-portfolio-template/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.5ad079f0.css",
+    "static/js/main.9d240593.js"
+  ]
+}
